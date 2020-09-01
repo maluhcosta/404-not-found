@@ -2,8 +2,7 @@
 
 A simple and responsive 404 page.
 
-- Desktop Template 💻
-- Mobile Template 📱
+- Mobile first 📱
 
 ### Technologies used:
 
